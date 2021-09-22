@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_brands"
+        android:icon="@drawable/ic_category"
+        android:title="Brands" />
+
+    <item
+        android:id="@+id/navigation_latest"
+        android:icon="@drawable/ic_update"
+        android:title="Latest" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search" />
+
+</menu>

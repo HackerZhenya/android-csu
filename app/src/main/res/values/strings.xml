@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Phones</string>
+    <string name="search_hint">Search</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="selected">Selected</string>
+    <string name="no_data">&lt;no data&gt;</string>
+    <string name="n_devices">%d devices</string>
+    <string name="title_brands">Brands</string>
+    <string name="title_phones">Phones</string>
+    <string name="title_latest">Latest</string>
+    <string name="title_search">Search</string>
+    <string name="dialog_share_title">Share</string>
+    <string name="dialog_item_phone">Phone</string>
+    <string name="dialog_item_image">Image</string>
+    <string name="share_message">Check out this phone: %s</string>
+</resources>
